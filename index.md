@@ -7,3 +7,4 @@
 * Hi
 * Help
 *Goodbye World!*
+[Lab Report 1] https://caz002.github.io/
