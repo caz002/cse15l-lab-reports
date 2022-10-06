@@ -7,4 +7,4 @@
 * Hi
 * Help
 *Goodbye World!*
-[Lab Report 1] https://caz002.github.io/
+[Lab Report 1] (https://caz002.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
