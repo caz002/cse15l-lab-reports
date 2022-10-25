@@ -57,12 +57,12 @@ The method handleRequest is called. The argument passed is the url: localhost:40
 3. ![Image]
 The method handleRequest is called. The argument passed is the url: localhost:4000/search?=pea. The field variables are the string arraylist parameters and the string printlist. Parameters takes the values of the query in the url after it is passed through the split method. The element at index 1 of parameters stands for the string that is being searched for throughout the stored strings in stringList. The code iterates through the stored strings on the webpage in the array list stringList, checking to see if each element contains the search phrase, and if it does, adding it to printlist. The final line of the method prints the values of printlist onto the webpage. Throughout the code, the url and parameters does not change, but printlist does.
 
-##Part 2
-###Bug One
+## Part 2
+### Bug One
 - Failure-Inducing Input:
 - Symptom:
 - Bug:(from ListExample.java)
-###Bug Two
+### Bug Two
 - Failure-Inducing Input:
 - Symptom:
 - Bug:(from LinkedListExample.java)
