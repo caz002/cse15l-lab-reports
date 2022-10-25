@@ -1,6 +1,6 @@
 # Lab Report 2
 ## Part 1
-** Code for Simplest Search Engine **
+**Code for Simplest Search Engine**
 ```
 import java.net.URI;
 import java.io.IOException;
