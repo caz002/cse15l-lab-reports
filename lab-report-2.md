@@ -105,5 +105,34 @@ static List<String> filter(List<String> list, StringChecker sc) {
 ```
 ### Bug Two
 - Failure-Inducing Input:
+```
+ @Test(timeout = 1000)
+    public void testPrepend(){
+        LinkedList a = new LinkedList();
+        a.append(2);
+        a.append(4);
+        a.append(6);
+        assertEquals("2 4 6 ", a.toString());
+    }
+```
 - Symptom:
 - Bug:(from LinkedListExample.java)
+```
+public void append(int value) {
+        if(this.root == null) {
+            this.root = new Node(value, null);
+            return;
+        }
+        // If it's just one element, add if after that one
+        Node n = this.root;
+        if(n.next == null) {
+            n.next = new Node(value, null);
+            return;
+        }
+        // Otherwise, loop until the end and add at the end with a null
+        while(n.next != null) {
+            n = n.next;
+            n.next = new Node(value, null);
+        }
+    }
+```
