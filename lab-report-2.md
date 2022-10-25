@@ -60,7 +60,34 @@ The method handleRequest is called. The argument passed is the url: localhost:40
 ## Part 2
 ### Bug One
 - Failure-Inducing Input:
+```
+@Test
+    public void filterTest(){
+        List<String> input1 = new ArrayList<String>();
+        input1.add("ants");
+        input1.add("bats");
+        input1.add("crabs");
+        input1.add("pants");
+        StringChecker a = new CheckIfAnts();
+        List<String> expected = new ArrayList<String>();
+        expected.add("ants"); expected.add("pants"); 
+        assertEquals(expected, ListExamples.filter(input1, a));
+    }
+```
+**Note: Not part of failure-inducing input, but here is the class CheckIfAnts for reference:**
+```
+class CheckIfAnts implements StringChecker{
+  public boolean checkString(String s){
+    if(s.contains("ants")){
+      return true;
+    }else{
+      return false;
+    }
+  }
+}
+```
 - Symptom:
+
 - Bug:(from ListExample.java)
 ```
 // Returns a new list that has all the elements of the input list for which
