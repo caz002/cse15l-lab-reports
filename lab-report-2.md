@@ -50,7 +50,7 @@ public class SearchEngine{
 }
 ```
 **Usages:**
-1. ![Image] (https://raw.githubusercontent.com/caz002/cse15l-lab-reports/main/Screen%20Shot%202022-10-25%20at%203.10.49%20PM.png)
+1. ![Image](https://raw.githubusercontent.com/caz002/cse15l-lab-reports/main/Screen%20Shot%202022-10-25%20at%203.10.49%20PM.png)
 The method handleRequest is called. The argument passed is the url: localhost:4000/add?=peach. The field variable is an array of strings called parameters, which consists of the results of the query of the url after it is passed through the split method. The element at index 1 is the string being added to and stored inside the webpage using the array list stringList. Neither the url or the array list parameters change over the course of the process.
 2. ![Image](https://raw.githubusercontent.com/caz002/cse15l-lab-reports/main/usage2.png)
 The method handleRequest is called. The argument passed is the url: localhost:4000/add?=pencil. The field variable is an array of strings called parameters, which is the array produced by calling the method split(“=”) on the query of the url. parameters[1] contains the string being stored inside the website’s server. The website keeps track of stored elements in an arraylist called stringList. The argument or field variables do not change over the course of this process.
