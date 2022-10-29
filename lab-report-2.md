@@ -86,8 +86,7 @@ class CheckIfAnts implements StringChecker{
   }
 }
 ```
-- Symptom:
-
+- Symptom:![Image](https://github.com/caz002/cse15l-lab-reports/blob/main/bugsymptom1.png)
 - Bug:(from ListExample.java)
 ```
 // Returns a new list that has all the elements of the input list for which
@@ -115,7 +114,7 @@ static List<String> filter(List<String> list, StringChecker sc) {
         assertEquals("2 4 6 ", a.toString());
     }
 ```
-- Symptom:
+- Symptom:![Image](https://github.com/caz002/cse15l-lab-reports/blob/main/BugSymptom2.png)
 - Bug:(from LinkedListExample.java)
 ```
 public void append(int value) {
