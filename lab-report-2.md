@@ -54,7 +54,7 @@ public class SearchEngine{
 The method handleRequest is called. The argument passed is the url: localhost:4000/add?=peach. The field variable is an array of strings called parameters, which consists of the results of the query of the url after it is passed through the split method. The element at index 1 is the string being added to and stored inside the webpage using the array list stringList. Neither the url or the array list parameters change over the course of the process.
 2. ![Image](https://raw.githubusercontent.com/caz002/cse15l-lab-reports/main/usage2.png)
 The method handleRequest is called. The argument passed is the url: localhost:4000/add?=pencil. The field variable is an array of strings called parameters, which is the array produced by calling the method split(“=”) on the query of the url. parameters[1] contains the string being stored inside the website’s server. The website keeps track of stored elements in an arraylist called stringList. The argument or field variables do not change over the course of this process.
-3. ![Image](https://github.com/caz002/cse15l-lab-reports/blob/ae03074f7172c7c87de77e3650c2e7a9a3e2f34c/usage3.png)
+3. ![Image](usage3.png)
 The method handleRequest is called. The argument passed is the url: localhost:4000/search?=pea. The field variables are the string arraylist parameters and the string printlist. Parameters takes the values of the query in the url after it is passed through the split method. The element at index 1 of parameters stands for the string that is being searched for throughout the stored strings in stringList. The code iterates through the stored strings on the webpage in the array list stringList, checking to see if each element contains the search phrase, and if it does, adding it to printlist. The final line of the method prints the values of printlist onto the webpage. Throughout the code, the url and parameters does not change, but printlist does.
 
 ## Part 2
@@ -87,7 +87,7 @@ class CheckIfAnts implements StringChecker{
 }
 ```
 - Symptom:
-![Image](https://github.com/caz002/cse15l-lab-reports/blob/main/bugsymptom1.png)
+![Image](bugsymptom1.png)
 - Bug:(from ListExample.java)
 ```
 // Returns a new list that has all the elements of the input list for which
