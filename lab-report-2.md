@@ -114,7 +114,7 @@ static List<String> filter(List<String> list, StringChecker sc) {
         assertEquals("2 4 6 ", a.toString());
     }
 ```
-- Symptom:![Image](https://github.com/caz002/cse15l-lab-reports/blob/main/BugSymptom2.png)
+- Symptom:![Image](BugSymptom2.png)
 - Bug:(from LinkedListExample.java)
 ```
 public void append(int value) {
