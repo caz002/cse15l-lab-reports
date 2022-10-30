@@ -78,15 +78,43 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 ### Example 3:
 Once previewing the file, you can also type the line number + `g` to skip to that line in the file, which is a helpful tool when used in combination with the `-N` command.
 
--Input:
+-Input: 
+```
+czhang@Catherines-MBP skill-demo1 % less -N ./technical/biomed/1471-2091-3-8.txt
+```
 
--Output:
+-Output: after typing `90g` in file preview mode
+```
+     90           thiamine concentrations in multiple experiments resulted
+     91           in a K 
+     92           m of 2.1 ± 0.4 μM for high affinity
+     93           thiamine uptake by normal lymphoblast mitochondria.
+     94           Interestingly, mitochondria from TRMA lymphoblasts did
+     95           not possess a "high affinity" thiamine transport capacity
+     96           as did mitochondria form normal lymphoblasts. No
+     97           difference in uptake of thiamine by TRMA mitochondria was
+     98           found in the presence and absence of excess unlabelled
+     99           thiamine (fig. 1b).
+    100           This finding suggests that cellular and mitochondrial
+    101           uptake of thiamine may be mediated by the same
+    102           transporter since TRMA is defined by mutation within the
+    103           thiamine transporter located on the plasma membrane [ 7 8
+    104           9 10 11 12 ] . Using antiserum specific for the human
+    105           thiamine transporter that is mutated in TRMA individuals,
+    106           western analysis consistently resulted in a faint but
+    107           detectable band within the isolated mitochondrial
+    108           suspension (fig. 1c), even after extensive and multiple
+    109           washing.
+    110         
+    111         
+    112           Uptake of ThDP by mitochondria
+```
 ## 2) `-p`
 ### Example 1:
 Using `-p` allows you to skip to a certain "pattern" or String phrase in the file in the preview menu. It is similar to Command + F on Mac.
 *Note: I needed to use screenshots instead of codeblocks to properly show the effects of the command in that it highlights words in the file
 
--Input:
+- Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -pasthma ./technical/plos/pmed.0010008.txt
 ```
@@ -96,11 +124,19 @@ czhang@Catherines-MBP skill-demo1 % less -pasthma ./technical/plos/pmed.0010008.
 ### Example 2:
 The String typed after the ```-p``` will be highlighted in the preview of the file in the terminal.
 
--Input:
+- Input:
+```
+czhang@Catherines-MBP skill-demo1 % less -pLSC ./technical/government/Media/Barr_sharpening_ax.txt
+```
 
--Output:
+- Output:
 
 ### Example 3:
+This command is useful when you want to skip to a certain section or part of the file, or you need to reference when a certain word or phrase pops up in the file.
+- Input:
+
+- Output:
+
 ## 3) `-X`
 ### Example 1:
 `-X` will keep the contents of the file in the terminal after you quit the preview, which can be helpful if you are working in the terminal and do not want to have to switch between viewing the file and coding in the terminal. 
