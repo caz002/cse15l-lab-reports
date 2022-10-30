@@ -186,177 +186,177 @@ czhang@Catherines-MBP skill-demo1 % less -X ./technical/government/Post_Rate_Com
 
 
 
-A Comparison of the Burden of Universal Service in Italy
-*
-./technical/government/Post_Rate_Comm/Cohenetal_comparison.txt...skipping...
+      A Comparison of the Burden of Universal Service in Italy
+      *
+      ./technical/government/Post_Rate_Comm/Cohenetal_comparison.txt...skipping...
 
 
 
 
-A Comparison of the Burden of Universal Service in Italy
-*
+      A Comparison of the Burden of Universal Service in Italy
+      *
 
 
-and the United States
-Robert Cohen Rossana Scocchera
-Postal Rate Commission Poste Italiane
-Carla Pace Vincenzo Visco Comandini
-Poste Italiane Poste Italiane
-Matthew Robinson John Waller
-Postal Rate Commission Postal Rate Commission
-Gennaro Scarfiglieri Spyros Xenakis
-Poste Italiane Postal Rate Commission
-
-
-
-
-A Comparison of the Burden of Universal Service in Italy
-*
-
-
-and the United States
-Robert Cohen Rossana Scocchera
-Postal Rate Commission Poste Italiane
-Carla Pace Vincenzo Visco Comandini
-Poste Italiane Poste Italiane
-Matthew Robinson John Waller
-Postal Rate Commission Postal Rate Commission
-Gennaro Scarfiglieri Spyros Xenakis
-Poste Italiane Postal Rate Commission
-
-:...skipping...
+      and the United States
+      Robert Cohen Rossana Scocchera
+      Postal Rate Commission Poste Italiane
+      Carla Pace Vincenzo Visco Comandini
+      Poste Italiane Poste Italiane
+      Matthew Robinson John Waller
+      Postal Rate Commission Postal Rate Commission
+      Gennaro Scarfiglieri Spyros Xenakis
+      Poste Italiane Postal Rate Commission
 
 
 
 
-A Comparison of the Burden of Universal Service in Italy
-*
+      A Comparison of the Burden of Universal Service in Italy
+      *
 
 
-and the United States
-Robert Cohen Rossana Scocchera
-Postal Rate Commission Poste Italiane
-Carla Pace Vincenzo Visco Comandini
-Poste Italiane Poste Italiane
-Matthew Robinson John Waller
-Postal Rate Commission Postal Rate Commission
-Gennaro Scarfiglieri Spyros Xenakis
-Poste Italiane Postal Rate Commission
+      and the United States
+      Robert Cohen Rossana Scocchera
+      Postal Rate Commission Poste Italiane
+      Carla Pace Vincenzo Visco Comandini
+      Poste Italiane Poste Italiane
+      Matthew Robinson John Waller
+      Postal Rate Commission Postal Rate Commission
+      Gennaro Scarfiglieri Spyros Xenakis
+      Poste Italiane Postal Rate Commission
 
-1. INTRODUCTION
-Samuel Johnson said Patriotism is the last refuge of a scoundrel
-and many postal observers believe that the Universal Service
-Obligation (USO) is the last refuge of a postal service wishing to
-protect inefficiency, monopoly profits, or economic rents. Despite
-inefficient service, opaque accounts, and large rents, many postal
-officials maintain that the monopoly, whatever its faults, is the
-only means of ensuring universal, affordable postal service for
-citizens throughout the nation. Without the monopoly, they argue,
-the post office would be crushed by the cost of the USO. This paper
-examines when this argument might be valid.
-All posts probably have some cost associated with the USO, but
-it has been difficult to quantify. We agree with John Panzar (2001)
-that the cost of the USO is the cost of the services that would not
-be provided in a competitive market. Under this definition, in
-practice, there has been no discernable USO cost. Competition
-exists in both Sweden and New Zealand and the incumbent posts have
-continued to provide universal service with no subsidy.
-The USO as defined by the proponents of the monopoly goes well
-beyond ubiquitous service. It also includes a uniform price with
-respect to location of the recipient1 and a uniform frequency of
-delivery. These conditions might have been appropriate a century
-ago when the post was the primary means of communication. Today
-however, this definition seems unduly restrictive. It is incumbent
-on defenders of the restrictive definition of USO to explain why
-postal service should be treated
-*
-The views expressed in this paper are those of the authors and
-do not necessarily represent the opinions of Poste Italiane or the
-Postal Rate Commission.
-In other words a firm cannot charge more for delivering similar
-items to addresses in one section of the country than another.
-Under this definition United Parcel Service (UPS) is not a true
-universal service provider because it imposes a surcharge for
-residential delivery. This is ironic because UPS delivers to every
-address in the continental U.S. and delivers right to the door. The
-Postal Service which is a universal service provider under the
-definition used here, delivers to mail boxes that are, in many
-cases, remote from the actual address.
-differently from other important products such as groceries,
-bank accounts and internet service.2 Notwithstanding, we use this
-restrictive definition of universal service for this paper.
-The obligation to provide ubiquitous service is not in itself
-onerous. It has been pointed out by the American co-authors of this
-paper that a post could rationalize its delivery costs by reducing
-the frequency of service on unprofitable routes to the point where
-they become profitable (Cohen et al. 2000). A post could also
-rationalize its prices by reflecting the cost of service to
-different areas. The restrictive definition of the USO does not
-allow a post to rationalize either its cost or pricing structure,3
-thus, creating cream-skimming opportunities under liberalization.
-The burden that the restrictive USO imposes on a post is the
-increase in its unit costs resulting from cream skimming under
-liberalization caused by the requirements of uniform pricing and
-levels of service. We use the term "burden of the USO" to
-distinguish our concept from other papers that use the term "cost
-of the USO."
-We believe that insights into the burden of the USO can be
-gained by comparing postal systems. Assuming that the keenest
-insights can be gained by comparing systems with large differences,
-the Italian and United States systems are good candidates. The
-U.S. has the highest volume per capita in the industrial world
-(739 pieces in 1999), while Italy has one of the lowest (115 pieces
-in 1999).4
-Previous work by Cohen et al. shows that the U.S. Postal Service
-(USPS) is not likely to require the monopoly to continue to satisfy
-the USO. (Cohen 1999, 2000) However, this result may not apply to
-all posts and it is important to distinguish magnitudes of burden
-for different posts. To this end, we develop a model to determine
-the USO burden for posts with different per capita volumes. In
-particular, applying the model demonstrates that the burden of USO
-is very great for Poste Italiane and other posts with small per
-capita volumes. On the other hand, for the U.S. and other posts
-with large and medium per capita volumes the burden is small.
-We first compare some statistics for Italy and the U.S. We then
-examine the consequences of volume loss on postal systems in order
-to provide a measure of burden in terms of increases in average
-unit costs as volume is lost to competitors, or
-2
-Many postal services are increasingly becoming primarily
-carriers of advertising. U.S. households receive far more
-advertising than letters, bills or other similar matter. According
-to the Household Diary Study (United States Postal Service 2000),
-in 1999, 56 percent of the pieces received by U.S. households were
-advertising mail.
-3
-An apparent exception is Consignia. It rationalizes its delivery
-cost by delivering twice a day in most urban areas and once a day
-in rural areas.
-4
-Italy has a very undeveloped direct mail market and the Italian
-monopoly does not include direct mail. The
-U.S. monopoly includes all addressed direct mail consisting of
-fewer than 24 pages. The U.S. Postal Service handled 314 pieces per
-capita of direct mail in 1999.
-equivalently, the increase in average rates for the volume
-remaining.5 Next we introduce the concept of delivery route profit
-and quantify the relative profits from delivered mail and mail not
-requiring delivery in both Italy and the U.S. We then compare the
-distribution of profit margins for routes in Italy and the U.S. and
-the effect this has on vulnerability to cream skimming. Finally, we
-discuss two measures of the cost of universal service, the entry
-pricing measure and the net avoided cost measure in the context of
-delivery profits. We compare them with our burden measure for the
-Poste Italiane and the U.S. Postal Service.
-Our principal findings are:
-The burden of the USO is much greater for small per capita
-volume posts than it is for large and medium per capita volume
-posts.
-The likelihood of a graveyard spiral resulting from volume loss
-to cream skimmers is remote for medium to large volume per capita
-posts; whereas it is a real threat to small volume per capita
-posts.
-The measure of burden presented here combined with the
+      :...skipping...
+
+
+
+
+      A Comparison of the Burden of Universal Service in Italy
+      *
+
+
+      and the United States
+      Robert Cohen Rossana Scocchera
+      Postal Rate Commission Poste Italiane
+      Carla Pace Vincenzo Visco Comandini
+      Poste Italiane Poste Italiane
+      Matthew Robinson John Waller
+      Postal Rate Commission Postal Rate Commission
+      Gennaro Scarfiglieri Spyros Xenakis
+      Poste Italiane Postal Rate Commission
+
+      1. INTRODUCTION
+      Samuel Johnson said Patriotism is the last refuge of a scoundrel
+      and many postal observers believe that the Universal Service
+      Obligation (USO) is the last refuge of a postal service wishing to
+      protect inefficiency, monopoly profits, or economic rents. Despite
+      inefficient service, opaque accounts, and large rents, many postal
+      officials maintain that the monopoly, whatever its faults, is the
+      only means of ensuring universal, affordable postal service for
+      citizens throughout the nation. Without the monopoly, they argue,
+      the post office would be crushed by the cost of the USO. This paper
+      examines when this argument might be valid.
+      All posts probably have some cost associated with the USO, but
+      it has been difficult to quantify. We agree with John Panzar (2001)
+      that the cost of the USO is the cost of the services that would not
+      be provided in a competitive market. Under this definition, in
+      practice, there has been no discernable USO cost. Competition
+      exists in both Sweden and New Zealand and the incumbent posts have
+      continued to provide universal service with no subsidy.
+      The USO as defined by the proponents of the monopoly goes well
+      beyond ubiquitous service. It also includes a uniform price with
+      respect to location of the recipient1 and a uniform frequency of
+      delivery. These conditions might have been appropriate a century
+      ago when the post was the primary means of communication. Today
+      however, this definition seems unduly restrictive. It is incumbent
+      on defenders of the restrictive definition of USO to explain why
+      postal service should be treated
+      *
+      The views expressed in this paper are those of the authors and
+      do not necessarily represent the opinions of Poste Italiane or the
+      Postal Rate Commission.
+      In other words a firm cannot charge more for delivering similar
+      items to addresses in one section of the country than another.
+      Under this definition United Parcel Service (UPS) is not a true
+      universal service provider because it imposes a surcharge for
+      residential delivery. This is ironic because UPS delivers to every
+      address in the continental U.S. and delivers right to the door. The
+      Postal Service which is a universal service provider under the
+      definition used here, delivers to mail boxes that are, in many
+      cases, remote from the actual address.
+      differently from other important products such as groceries,
+      bank accounts and internet service.2 Notwithstanding, we use this
+      restrictive definition of universal service for this paper.
+      The obligation to provide ubiquitous service is not in itself
+      onerous. It has been pointed out by the American co-authors of this
+      paper that a post could rationalize its delivery costs by reducing
+      the frequency of service on unprofitable routes to the point where
+      they become profitable (Cohen et al. 2000). A post could also
+      rationalize its prices by reflecting the cost of service to
+      different areas. The restrictive definition of the USO does not
+      allow a post to rationalize either its cost or pricing structure,3
+      thus, creating cream-skimming opportunities under liberalization.
+      The burden that the restrictive USO imposes on a post is the
+      increase in its unit costs resulting from cream skimming under
+      liberalization caused by the requirements of uniform pricing and
+      levels of service. We use the term "burden of the USO" to
+      distinguish our concept from other papers that use the term "cost
+      of the USO."
+      We believe that insights into the burden of the USO can be
+      gained by comparing postal systems. Assuming that the keenest
+      insights can be gained by comparing systems with large differences,
+      the Italian and United States systems are good candidates. The
+      U.S. has the highest volume per capita in the industrial world
+      (739 pieces in 1999), while Italy has one of the lowest (115 pieces
+      in 1999).4
+      Previous work by Cohen et al. shows that the U.S. Postal Service
+      (USPS) is not likely to require the monopoly to continue to satisfy
+      the USO. (Cohen 1999, 2000) However, this result may not apply to
+      all posts and it is important to distinguish magnitudes of burden
+      for different posts. To this end, we develop a model to determine
+      the USO burden for posts with different per capita volumes. In
+      particular, applying the model demonstrates that the burden of USO
+      is very great for Poste Italiane and other posts with small per
+      capita volumes. On the other hand, for the U.S. and other posts
+      with large and medium per capita volumes the burden is small.
+      We first compare some statistics for Italy and the U.S. We then
+      examine the consequences of volume loss on postal systems in order
+      to provide a measure of burden in terms of increases in average
+      unit costs as volume is lost to competitors, or
+      2
+      Many postal services are increasingly becoming primarily
+      carriers of advertising. U.S. households receive far more
+      advertising than letters, bills or other similar matter. According
+      to the Household Diary Study (United States Postal Service 2000),
+      in 1999, 56 percent of the pieces received by U.S. households were
+      advertising mail.
+      3
+      An apparent exception is Consignia. It rationalizes its delivery
+      cost by delivering twice a day in most urban areas and once a day
+      in rural areas.
+      4
+      Italy has a very undeveloped direct mail market and the Italian
+      monopoly does not include direct mail. The
+      U.S. monopoly includes all addressed direct mail consisting of
+      fewer than 24 pages. The U.S. Postal Service handled 314 pieces per
+      capita of direct mail in 1999.
+      equivalently, the increase in average rates for the volume
+      remaining.5 Next we introduce the concept of delivery route profit
+      and quantify the relative profits from delivered mail and mail not
+      requiring delivery in both Italy and the U.S. We then compare the
+      distribution of profit margins for routes in Italy and the U.S. and
+      the effect this has on vulnerability to cream skimming. Finally, we
+      discuss two measures of the cost of universal service, the entry
+      pricing measure and the net avoided cost measure in the context of
+      delivery profits. We compare them with our burden measure for the
+      Poste Italiane and the U.S. Postal Service.
+      Our principal findings are:
+      The burden of the USO is much greater for small per capita
+      volume posts than it is for large and medium per capita volume
+      posts.
+      The likelihood of a graveyard spiral resulting from volume loss
+      to cream skimmers is remote for medium to large volume per capita
+      posts; whereas it is a real threat to small volume per capita
+      posts.
+      The measure of burden presented here combined with the
 czhang@Catherines-MBP skill-demo1 % 
 ```
 
