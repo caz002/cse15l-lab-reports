@@ -170,6 +170,7 @@ czhang@Catherines-MBP skill-demo1 % less -X ./technical/plos/journal.pbio.002001
         evolutionary consequences; because natural selection acts upon phenotypic variation within
 czhang@Catherines-MBP skill-demo1 % 
 ```
+
 ### Example 2:
 As shown in this example, the contents of the file Cohenetal_comparison.txt will stay in the terminal even after the key q is pressed. The terminal prints as far as you scrolled in the file, so it may not print the complete file.
 
