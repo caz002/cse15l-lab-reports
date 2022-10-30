@@ -78,11 +78,14 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 ### Example 3:
 -Input:
 -Output:
-## 2)
+## 2) `-p`
 ### Example 1:
 ### Example 2:
 ### Example 3:
-## 3)
+## 3) `-X`
 ### Example 1:
+`-X` will keep the contents of the file in the terminal after you quit the preview, which can be helpful if you are working in the terminal and do not want to have to switch between viewing the file and coding in the terminal. 
 ### Example 2:
+As shown in this example, the contents of the file dafa;df;aev will stay in the terminal even after the key q is pressed.
 ### Example 3:
+This command can become a useful shortcut to save time from calling `-less` repeatedly when you want to view the file.
