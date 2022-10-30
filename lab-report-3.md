@@ -88,7 +88,8 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 
 -Input:
 `czhang@Catherines-MBP skill-demo1 % less -X ./technical/plos/journal.pbio.0020019.txt`
--Output: after pressing q
+
+-Output: after pressing the key q
 ```
   
     
@@ -104,5 +105,14 @@ czhang@Catherines-MBP skill-demo1 %
 ```
 ### Example 2:
 As shown in this example, the contents of the file dafa;df;aev will stay in the terminal even after the key q is pressed. The terminal prints what you were viewing or where you left off on the file. 
+
+-Input:
+
+-Output: after pressing the key q
+
 ### Example 3:
 This command can become a useful shortcut to save time from calling `-less` repeatedly when you want to view the file.
+
+-Input:
+
+-Output: after pressing the key q
