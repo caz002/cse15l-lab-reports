@@ -4,8 +4,36 @@ The command I focused on was ```less```.
 ### Example 1:
 The command ```-N``` displays the number of each line on the left-hand side of the preview of the file in the terminal. It can be useful when wanting to find a certain line or reference a certain part in the file. 
 -Input:
+```
+czhang@Catherines-MBP skill-demo1 % less -N ./technical/government/Media/Annual_Fee.txt
+```
 -Output:
+```
+      1 
+      2 
+      3 
+      4 
+      5 Annual Fee to Rise $49; Legal Aid Gets Boost
+      6 
+      7 John Flynn Rooney
+      8 October 4, 2002
+      9 The Illinois Supreme Court on Friday hiked attorney registration
+     10 fees by $49 a year to boost both legal aid services and support for
+     11 lawyers with drug and alcohol problems. Under the high court's
+     12 order, the base annual fee for active lawyers rises to $229 as of
+     13 Jan. 1. Last year, the high court raised that fee to $180 from
+     14 $140. Lawyers in their first three years of practice or who are
+     15 inactive but wish to remain on the roll of attorneys pay $90.
+     16 Most of the latest increase -- $42 -- will go to the Lawyers
+     17 Trust Fund of Illinois, which disburses monies to legal aid
+     18 organizations that assist low- income residents in civil matters.
+     19 The other $7 will go the Lawyers' Assistance Program Inc., which
+     20 helps lawyers overcome drug or alcohol addiction and mental
+     21 illness.
+     22 The Lawyers Trust Fund and LAP aim, respectively, to improve
+```
 ### Example 2:
+The lines are numbered from top to bottom, with the first line being labeled with 1. Lines that are just blank space are also counted. 
 -Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
