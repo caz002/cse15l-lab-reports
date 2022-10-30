@@ -9,4 +9,5 @@
 *Goodbye World!*
 
 * [Lab Report 1](https://caz002.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
-* [Lab Report 2](https://caz002.github.io/cse15l-lab-reports/lab-report-2)
+* [Lab Report 2](https://caz002.github.io/cse15l-lab-reports/lab-report-2.html)
+* [Lab Report 3](https://caz002.github.io/cse15l-lab-reports/lab-report-3.html)
