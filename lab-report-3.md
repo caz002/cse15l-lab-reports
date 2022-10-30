@@ -152,7 +152,9 @@ czhang@Catherines-MBP skill-demo1 % less -p2003 ./technical/911report/chapter-13
 `-X` will keep the contents of the file in the terminal after you quit the preview, which can be helpful if you are working in the terminal and do not want to have to switch between viewing the file and coding in the terminal. 
 
 - Input:
-`czhang@Catherines-MBP skill-demo1 % less -X ./technical/plos/journal.pbio.0020019.txt`
+```
+czhang@Catherines-MBP skill-demo1 % less -X ./technical/plos/journal.pbio.0020019.txt
+```
 
 - Output: after pressing the key q
 ```
