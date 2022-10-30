@@ -76,7 +76,10 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
      32         leaders in the field will generate excitement and expectations, even though much of what is
 ```
 ### Example 3:
+Once previewing the file, you can also type the line number + `g` to skip to that line in the file, which is a helpful tool when used in combination with the `-N` command.
+
 -Input:
+
 -Output:
 ## 2) `-p`
 ### Example 1:
