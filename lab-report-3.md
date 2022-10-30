@@ -80,7 +80,23 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 -Output:
 ## 2) `-p`
 ### Example 1:
+Using `-p` allows you to skip to a certain "pattern" or String phrase in the file in the preview menu. It is similar to Command + F on Mac.
+*Note: I needed to use screenshots instead of codeblocks to properly show the effects of the command in that it highlights words in the file
+
+-Input:
+```
+czhang@Catherines-MBP skill-demo1 % less -pasthma ./technical/plos/pmed.0010008.txt
+```
+
+- Output:
+
 ### Example 2:
+The String typed after the ```-p``` will be highlighted in the preview of the file in the terminal.
+
+-Input:
+
+-Output:
+
 ### Example 3:
 ## 3) `-X`
 ### Example 1:
