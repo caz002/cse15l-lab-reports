@@ -89,7 +89,7 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 -Input:
 `czhang@Catherines-MBP skill-demo1 % less -X ./technical/plos/journal.pbio.0020019.txt`
 -Output: after pressing q
-`
+```
   
     
       
@@ -100,7 +100,8 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
         proposal that individuals were somehow buffered, or canalized, against genetic and
         environmental variation (Waddington 1942). Clearly, such a mechanism would have important
         evolutionary consequences; because natural selection acts upon phenotypic variation within
-czhang@Catherines-MBP skill-demo1 % `
+czhang@Catherines-MBP skill-demo1 % 
+```
 ### Example 2:
 As shown in this example, the contents of the file dafa;df;aev will stay in the terminal even after the key q is pressed. The terminal prints what you were viewing or where you left off on the file. 
 ### Example 3:
