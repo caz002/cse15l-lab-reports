@@ -3,6 +3,7 @@ The command I focused on was ```less```.
 ## 1) ```-N```
 ### Example 1:
 The command ```-N``` displays the number of each line on the left-hand side of the preview of the file in the terminal. It can be useful when wanting to find a certain line or reference a certain part in the file. 
+
 -Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -N ./technical/government/Media/Annual_Fee.txt
