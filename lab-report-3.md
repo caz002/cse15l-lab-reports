@@ -33,6 +33,7 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/government/Media/Annual_
      21 illness.
      22 The Lawyers Trust Fund and LAP aim, respectively, to improve
 ```
+
 ### Example 2:
 The lines are numbered from top to bottom, with the first line being labeled with 1. Lines that are just blank space are also counted. 
 
@@ -75,6 +76,7 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
      31         These are noble goals, and the fact that they are stipulated jointly by many of the
      32         leaders in the field will generate excitement and expectations, even though much of what is
 ```
+
 ### Example 3:
 Once previewing the file, you can also type the line number + `g` to skip to that line in the file, which is a helpful tool when used in combination with the `-N` command to navigate the file.
 
