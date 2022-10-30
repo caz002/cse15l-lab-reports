@@ -172,6 +172,7 @@ czhang@Catherines-MBP skill-demo1 % less -X ./technical/government/Post_Rate_Com
 ```
 
 - Output: after pressing the key q
+
 ```
 
 
