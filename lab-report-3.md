@@ -4,11 +4,11 @@ The command I focused on was ```less```.
 ### Example 1:
 The command ```-N``` displays the number of each line on the left-hand side of the preview of the file in the terminal. It can be useful when wanting to find a certain line or reference a certain part in the file. 
 
--Input:
+- Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -N ./technical/government/Media/Annual_Fee.txt
 ```
--Output:
+- Output:
 ```
       1 
       2 
@@ -36,11 +36,11 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/government/Media/Annual_
 ### Example 2:
 The lines are numbered from top to bottom, with the first line being labeled with 1. Lines that are just blank space are also counted. 
 
--Input:
+- Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 ```
--Output:
+- Output:
 ```
       1 
       2   
@@ -78,12 +78,12 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
 ### Example 3:
 Once previewing the file, you can also type the line number + `g` to skip to that line in the file, which is a helpful tool when used in combination with the `-N` command.
 
--Input: 
+- Input: 
 ```
 czhang@Catherines-MBP skill-demo1 % less -N ./technical/biomed/1471-2091-3-8.txt
 ```
 
--Output: after typing `90g` in file preview mode
+- Output: after typing `90g` in file preview mode
 ```
      90           thiamine concentrations in multiple experiments resulted
      91           in a K 
@@ -146,10 +146,10 @@ czhang@Catherines-MBP skill-demo1 % less -p2003 ./technical/911report/chapter-13
 ### Example 1:
 `-X` will keep the contents of the file in the terminal after you quit the preview, which can be helpful if you are working in the terminal and do not want to have to switch between viewing the file and coding in the terminal. 
 
--Input:
+- Input:
 `czhang@Catherines-MBP skill-demo1 % less -X ./technical/plos/journal.pbio.0020019.txt`
 
--Output: after pressing the key q
+- Output: after pressing the key q
 ```
   
     
@@ -166,12 +166,12 @@ czhang@Catherines-MBP skill-demo1 %
 ### Example 2:
 As shown in this example, the contents of the file Cohenetal_comparison.txt will stay in the terminal even after the key q is pressed. The terminal prints as far as you scrolled in the file, so it may not print the complete file.
 
--Input:
+- Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -X ./technical/government/Post_Rate_Comm/Cohenetal_comparison.txt
 ```
 
--Output: after pressing the key q
+- Output: after pressing the key q
 ```
 
 
@@ -354,11 +354,11 @@ czhang@Catherines-MBP skill-demo1 %
 ### Example 3:
 This command can become a useful shortcut to save time from calling `-less` repeatedly when you need to view and reference the file, while still typing commands in the terminal.
 
--Input:
+- Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -X ./technical/911report/chapter-13.1.txt
 ```
--Output: after pressing the key q
+- Output: after pressing the key q
 ```
 
     
