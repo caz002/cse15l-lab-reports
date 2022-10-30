@@ -1,3 +1,6 @@
+# Lab Report 3
+The command I focused on was ```less```.
+
 ### Example 2:
 -Input:
 ```
