@@ -120,6 +120,7 @@ czhang@Catherines-MBP skill-demo1 % less -pasthma ./technical/plos/pmed.0010008.
 ```
 
 - Output:
+![Image](3.2.1.png)
 
 ### Example 2:
 The String typed after the ```-p``` will be highlighted in the preview of the file in the terminal.
@@ -130,12 +131,16 @@ czhang@Catherines-MBP skill-demo1 % less -pLSC ./technical/government/Media/Barr
 ```
 
 - Output:
+![Image](Lab3.2.2.png)
 
 ### Example 3:
 This command is useful when you want to skip to a certain section or part of the file, or you need to reference when a certain word or phrase pops up in the file.
 - Input:
-
+```
+czhang@Catherines-MBP skill-demo1 % less -p2003 ./technical/911report/chapter-13.4.txt
+```
 - Output:
+![Image](Lab 3.2.3.png)
 
 ## 3) `-X`
 ### Example 1:
