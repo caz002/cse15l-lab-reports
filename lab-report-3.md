@@ -112,6 +112,7 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/biomed/1471-2091-3-8.txt
     112           Uptake of ThDP by mitochondria
 ```
 ## 2) `-p`
+
 ### Example 1:
 Using `-p` allows you to skip to a certain "pattern" or String phrase in the file in the preview menu. It is similar to Command + F on Mac.
 *Note: I needed to use screenshots instead of codeblocks to properly show the effects of the command in that it highlights words in the file
@@ -145,6 +146,7 @@ czhang@Catherines-MBP skill-demo1 % less -p2003 ./technical/911report/chapter-13
 ![Image](Lab 3.2.3.png)
 
 ## 3) `-X`
+
 ### Example 1:
 `-X` will keep the contents of the file in the terminal after you quit the preview, which can be helpful if you are working in the terminal and do not want to have to switch between viewing the file and coding in the terminal. 
 
