@@ -111,6 +111,7 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/biomed/1471-2091-3-8.txt
     111         
     112           Uptake of ThDP by mitochondria
 ```
+
 ## 2) `-p`
 
 ### Example 1:
@@ -363,6 +364,7 @@ This command can become a useful shortcut to save time from calling `-less` repe
 ```
 czhang@Catherines-MBP skill-demo1 % less -X ./technical/911report/chapter-13.1.txt
 ```
+
 - Output: after pressing the key q
 ```
 
