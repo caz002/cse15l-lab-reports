@@ -35,6 +35,7 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/government/Media/Annual_
 ```
 ### Example 2:
 The lines are numbered from top to bottom, with the first line being labeled with 1. Lines that are just blank space are also counted. 
+
 -Input:
 ```
 czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
@@ -74,4 +75,14 @@ czhang@Catherines-MBP skill-demo1 % less -N ./technical/plos/pmed.0020035.txt
      31         These are noble goals, and the fact that they are stipulated jointly by many of the
      32         leaders in the field will generate excitement and expectations, even though much of what is
 ```
-
+### Example 3:
+-Input:
+-Output:
+## 2)
+### Example 1:
+### Example 2:
+### Example 3:
+## 3)
+### Example 1:
+### Example 2:
+### Example 3:
