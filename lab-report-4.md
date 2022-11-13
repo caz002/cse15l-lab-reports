@@ -8,8 +8,10 @@ I chose to change the name of the `start` parameter and all of its uses to `base
 - Press `<Enter>` to open *DocSearchServer.java* in vim ![`Enter`](LabReport_4.2.png)
 - Type `/start` to begin search ![`/start`](LabReport_4.3.png)
 - Press `<Enter>` to execute search, and the cursor jumps to the first instance of *start* ![`<Enter>`](LabReport_4.4.png)
-- Type `ce` to enter Insert Mode ![`ce`](LabReport_4.5.png)
-- 
+- Type `ce` to enter Insert Mode and delete the word *start* ![`ce`](LabReport_4.5.png)
+- Type `base` ![`base`](LabReport_4.6.png)
+- Press `<Esc>` to exit Insert Mode ![`<Esc>`](LabReport_4.7.png)
+- Type `n` to jump to next instance of *start* ![`n`](LabReport_4.8.png)
 
 
 `vim DocSearchServer.java<Enter>`
