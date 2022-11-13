@@ -3,7 +3,7 @@
 
 I chose to change the name of the `start` parameter and all of its uses to `base`.
 
-***Complete Sequence of Keys:*** `vim DocSearchServer.java<Enter>/start<Enter>cebase<Esc>n.n.n.:wq<Enter>`
+***Complete Sequence of Keys:*** `vim DocSearchServer.java<Enter>/start<Enter>cebase<Esc>n.n.:wq<Enter>`
 - Type `vim DocSearchServer.java` into the terminal command line ![`vim DocSearchServer.java`](LabReport_4.1.png)
 - Press `<Enter>` to open *DocSearchServer.java* in vim ![`Enter`](LabReport_4.2.png)
 - Type `/start` to begin search ![`/start`](LabReport_4.3.png)
@@ -15,7 +15,7 @@ I chose to change the name of the `start` parameter and all of its uses to `base
 - Type `.` to excute the last command done in InsertMode, which deleted the word *start* and added *base* ![`.`](LabReport_4.8.png)
 - Type `n` to jump to next instance of *start* ![`n`](LabReport_4.9.png)
 - Type `.` to replace *start* with *base* ![`.`](LabReport_4.10.png)
-- Type `:wq` to save file and exit vim ![`:wq`](LabReport_4.13.png)
+- Type `:wq` to save file and exit vim ![`:wq`](LabReport_4.16.png)
 - Press `<Enter>` to execute `:wq` and return back to the terminal command line ![`:wq`](LabReport_4.14.png)
 
 ## Part 2
