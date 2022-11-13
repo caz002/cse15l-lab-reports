@@ -22,5 +22,5 @@ I chose to change the name of the `start` parameter and all of its uses to `base
 
 It took 7 min and 17 seconds for me to use `scp` to modify the DocSearchServer.java file, and 1 min 34 seconds using vim. I had some difficulties with typos and making small errors while using `scp`, which extended the time it took. I did not face any difficulties using vim.
 
-If I had to work on a program I was running remotely, I would prefer to use vim instead of scp. Using vim saves more time than copying the file into the remote server. My decision on whether or not to use vim would be based on how 
+If I had to work on a program I was running remotely, I would prefer to use vim instead of scp. Using vim saves more time than copying the file into the remote server. My decision on whether or not to use vim would be based on how long and how extensively I would be editing. If the edits can be finished in a few minutes, using vim would be more effective, but if the edits are going to take hours or days, I would prefer editing on a local source-code editor in combination with scp instead of navigating a text editor program I am not super adept at using. Also, if I am unable to make the edits locally on the machine I am using, I would default to using vim instead.
 
