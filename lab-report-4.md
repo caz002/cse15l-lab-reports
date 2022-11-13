@@ -11,7 +11,7 @@ I chose to change the name of the `start` parameter and all of its uses to `base
 - Type `ce` to enter Insert Mode and delete the word *start* ![`ce`](LabReport_4.5.png)
 - Type `base` ![`base`](LabReport_4.6.png)
 - Press `<Esc>` to exit Insert Mode ![`<Esc>`](LabReport_4.7.png)
-- Type `n` to jump to next instance of *start* ![`n`](LabReport_4.8.png)
+- Type `n` to jump to next instance of *start* ![`n`](LabReport_4.9.png)
 
 
 `vim DocSearchServer.java<Enter>`
