@@ -2,7 +2,7 @@
 ## Grade.sh File
 ```
 echo 'Grading...'
-CPATH='.:../lib/hamcrest-core-1.3.jar:/lib/junit-4.13.2.jar'
+CPATH='.:../lib/hamcrest-core-1.3.jar:../lib/junit-4.13.2.jar'
 rm -rf student-submission
 git clone $1 student-submission
 cd student-submission
@@ -23,7 +23,7 @@ then
         echo 'Compile succeeded! + 1 point'
 else
         echo 'Your program did not compile. +0 points'
-        echo 'You scored 1/3 on this assingment'
+        echo 'You scored 1/3 on this assignment'
         exit 1
 fi
 java -cp $CPATH org.junit.runner.JUnitCore TestListExamples
