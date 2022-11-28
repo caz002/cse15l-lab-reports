@@ -92,12 +92,8 @@ Repository used: https://github.com/ucsd-cse15l-f22/list-methods-filename
      - return code: 0 
  - javac -cp $CPATH *.java 2> output-error.txt
      - stdout: none
-     - stderr: 
-        ListExamples.java:15: error: ';' expected
-        result.add(0, s)
-                        ^
-        1 error
-     - return code: 1
+     - stderr: none
+     - return code: 0
  - if [[ ! -s output-error.txt ]]
      - condition returns false because output-error.txt is a file with a size greater tha zero
  - so, then branch of if [[ ! -s output-error.txt ]] does not run, which means these lines do not run:
