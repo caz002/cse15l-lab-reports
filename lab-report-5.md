@@ -69,10 +69,15 @@ Repository used: https://github.com/ucsd-cse15l-f22/list-methods-filename
      - return code: 0
  - if [[ -e ListExamples.java ]]
      - condition returns true because ListExamples.java exists in the student submission and compiles
+ - so, else branch of if [[ -e ListExamples.java ]] does not run, which means these lines do not run:
+     - echo 'ListExamples.java is missing +0 points'
+     - echo 'You scored 0/3 on this assignment'
+     - exit 1
  - echo 'ListExamples.java was found! +1 points'
      - stdout: ListExamples.java was found! +1 points
      - stderr: none
      - return code: 0
+ 
  - cd ..
      - stdout: none
      - stderr: none
@@ -95,6 +100,8 @@ Repository used: https://github.com/ucsd-cse15l-f22/list-methods-filename
      - return code: 1
  - if [[ ! -s output-error.txt ]]
      - condition returns false because output-error.txt is a file with a size greater tha zero
+ - so, then branch of if [[ ! -s output-error.txt ]] does not run, which means these lines do not run:
+     - echo 'Compile succeeded! + 1 point'
  - cat output-error.txt
      - stdout: 
        ListExamples.java:15: error: ';' expected
