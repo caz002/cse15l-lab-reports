@@ -115,6 +115,17 @@ Repository used: https://github.com/ucsd-cse15l-f22/list-methods-filename
      - stdout: none
      - stderr: none
      - return code: 0
- ***All lines after this point do not run***
- - 
+ 
+ ***All lines after this point do not run due to early exit. The commands that do not run are:***
+ 
+- java -cp $CPATH org.junit.runner.JUnitCore TestListExamples
+- java -cp $CPATH org.junit.runner.JUnitCore TestListExamples > testOutput.txt
+- echo $?
+- if grep -Fxq "FAIL" testOutput.txt
+- echo 'Code failed the tests. +0 points'
+- echo 'You scored 2/3 on this assignment'
+- exit 1
+- echo 'Code passed all the tests. +1 point'
+- echo 'You scored 3/3 on this assignment. Congrats!'
+- exit 0
 
