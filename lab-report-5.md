@@ -42,9 +42,12 @@ exit 0
 ```
 ## Submission 1
 Repository used: https://github.com/ucsd-cse15l-f22/list-methods-corrected
+![Image](corrected.png)
 ## Submission 2
 Repository used: https://github.com/ucsd-cse15l-f22/list-methods-compile-error
+![Image](compile-error.png)
 ## Submission 3
 Repository used: https://github.com/ucsd-cse15l-f22/list-methods-filename
+![Image](filename.png)
 
 
