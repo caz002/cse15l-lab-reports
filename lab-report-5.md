@@ -46,7 +46,7 @@ Repository used: https://github.com/ucsd-cse15l-f22/list-methods-corrected
 ![Image](corrected.png)
 ## Submission 2
 Repository used: https://github.com/ucsd-cse15l-f22/list-methods-compile-error
-![Image](compile-error corrected.png)
+![Image](compile-error2.png)
 ## Submission 3
 Repository used: https://github.com/ucsd-cse15l-f22/list-methods-filename
 ![Image](filename.png)
